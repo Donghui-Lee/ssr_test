@@ -24,3 +24,7 @@
 - redux, react-redux, redux-thunk, axios 설치
 - PreloadContext 생성 
 - 서버에서 리덕스 설정 및 PreloadContect 사용
+
+# 8. 데이터 로딩 : redux-saga 사용
+- redux-saga 설치
+- 서버 사이드 렌더링 작업
