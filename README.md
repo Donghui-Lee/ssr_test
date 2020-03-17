@@ -19,3 +19,8 @@
 # 6. 정적 파일 접근
 - Express static 미들웨어 사용
 - build 의 js, css 정적 파일 접근
+
+# 7. 데이터 로딩 : redux-thunk 사용
+- redux, react-redux, redux-thunk, axios 설치
+- PreloadContext 생성 
+- 서버에서 리덕스 설정 및 PreloadContect 사용
